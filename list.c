@@ -83,13 +83,3 @@ void printList() {
     }
     printf("\n");
 }
-
-void printMenu() {
-    printf("You have the following options:\n");
-    printf("\t1. Add a node to the list.\n");
-    printf("\t2. Remove a node from the list.\n");
-    printf("\t3. Insert a node to the list.\n");
-    printf("\t4. Print your list\n");
-    printf("\t5. Quit.\n");
-    return;
-}
